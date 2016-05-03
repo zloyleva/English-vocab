@@ -1,0 +1,109 @@
+﻿source,источник
+execute,выполнять
+capable,способный
+almost,почти
+enough,достаточно
+core,ядро
+the busiest,самый занятой
+degree,степень градус
+required,обязательный
+depth,глубина
+numerous,многочисленные
+compatible,совместимый
+available,доступный
+forget,забывать
+language,язык
+sentense,предложение
+word,слово
+baby,малыш
+boy,мальчик
+man,мужчина
+girl,девочка
+woman,женщина
+uncle,дядя
+aunt,тетя
+brother,брат
+sister,сестра
+family,семья
+nephew,племянник
+niece,племянница
+relative,родственник
+friend,друг
+parents,родители
+mother,мать
+father,отец
+husband,муж
+wife,жена
+child,ребенок
+children,дети
+daughter,дочь
+son,сын
+neighbour,сосед
+colleague,колега
+face,лицо
+nose,нос
+lip,губа
+mouth,рот
+eye,глаз
+cheek,щека
+tooth,зуб
+human body,человеческое тело
+head,голова
+ear,ухо
+hair,волосы
+neck,шея
+arm,рука
+hand,рука кисть
+shoulder,плечо
+finger,палец на руке
+leg,нога
+foot,ступня
+men,мужчины
+women,женщины
+feet,стопы(ноги)
+teeth,зубы
+brother-in-law,брат жены(мужа)
+father-in-law,свекр тесть
+mather-in-law,свекровь теща
+son-in-law,зять
+daughter-in-law,невестка
+clothes,одежда
+shirt,рубашка
+tie,галстук
+suit,костюм
+trousers,брюки
+underwear,нижнее белье
+hat,шляпа
+blouse,блузка
+jacket,куртка жакет
+bag,сумка
+dress,платье
+coat,пальто
+shoe,туфля полуботинок
+food,пища еда
+drink,напиток
+bottle,бутылка
+ice,лед
+milk,молоко
+bread,хлеб
+chicken,цыпленок курица
+salt,соль
+cup,чашка
+sauser,блюдце
+plate,тарелка
+juice,сок
+vegetable,овощ
+water,вода
+glass,стакан
+fruit,фрукты
+tea,чай
+cheese,сыр
+buter,масло
+sugar,сахар
+meat,мясо
+fish,рыба
+sweets,сладости
+spoon,ложка
+knife,нож
+knives,ножи
+fock,вилка
